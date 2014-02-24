@@ -31,8 +31,17 @@ If you're going to use to the [Issue Tracker](https://github.com/klxrb/MadeWithR
 
         gem install jekyll
 
+3. Create a feature branch and work on it:
+        
+        git checkout -b my-new-feature 
+
 4. Edit away. Learn about working with Jekyll [here](http://jekyllrb.com/docs/home/).
 
-5. Send a Pull Request after.
+5. Push local feature branch to Github:
+
+        git checkout my-new-feature
+        git push origin my-new-feature
+
+5. Send a Pull Request.
 
 
