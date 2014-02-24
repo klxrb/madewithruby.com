@@ -1,6 +1,6 @@
 ## MadeWithRuby.com [![Build Status](https://travis-ci.org/klxrb/MadeWithRuby.com.png?branch=master)](https://travis-ci.org/klxrb/MadeWithRuby.com)
 
-MadeWithRuby is a directory service that aims to promote the adoption of Ruby frameworks by showcasing the awesomeness of the projects that developers made.
+MadeWithRuby is a directory service that aims to promote the adoption of Ruby frameworks by showcasing the awesome projects that Ruby developers made.
 
 Feel free to send us Pull Requests as we continue to build our list and improve the website.
 
